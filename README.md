@@ -1,6 +1,6 @@
 # Portfolio Performance and Correlation Analysis
 
-This repository contains two Python scripts for analyzing portfolio performance and correlation between different assets. Here's a brief overview of each script and how to use them:
+This repository contains three Python scripts for analyzing portfolio performance and correlation between different assets. Here's a brief overview of each script and how to use them:
 
 ## portfolio_performance.py
 
