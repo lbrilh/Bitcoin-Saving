@@ -72,5 +72,3 @@ This script analyzes the correlation between Bitcoin (BTC) and Ethereum (ETH), a
 2. Place the necessary CSV data files ("ACWI.csv," "eth-usd-max.csv," "btc-usd-max.csv," "TSLA.csv," "NASDAQ.csv") in the same directory as the scripts.
 3. Run each script to perform the desired analysis.
 4. Review the generated visualizations and output to gain insights into portfolio performance and asset correlations.
-
-Feel free to customize the analysis parameters or extend the functionality of these scripts to suit your specific needs.
